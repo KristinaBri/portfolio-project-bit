@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(15, 22, 36);
+  background-image: url(assets/hero_img.svg);
+  background-repeat: no-repeat;
+  background-position: 877px 135px;
+  color: rgb(255, 255, 255);
+  font-family: "Poppins", sans-serif;
+  max-width: 100%;
+}
+body .container {
+  width: 1200px;
+  height: 900px;
+  margin: auto;
+}
+body .container header {
+  height: 137px;
+  width: 100%;
+  left: 0px;
+  top: 0px;
+}/*# sourceMappingURL=style.css.map */

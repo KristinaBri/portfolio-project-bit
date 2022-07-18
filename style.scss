@@ -89,11 +89,15 @@ ul {
 }   
 .social img {
     padding-left: 40px;
-}                          
+}    
+main {
+    width: 202px;
+    height: 47.58px;
+}                      
 .hero-content {
     width: 809px;
     height: 459px;
-    top: 283px;
+    top: 200px;
     margin-left: 80px;
 }   
 h1 {
@@ -105,90 +109,22 @@ p {
     color: rgba(188, 188, 188, 1);
     font-weight: 600;
     font-size: 30px;
-    line-height: 45px;
     margin-top: 67px;
-    margin-bottom: 67px;
+    margin-bottom: 100px;
 }            
 button {
-    width: 280px;
+    width: 285px;
     height: 80px;
-    left: 115px;
-    top: 662px;
+    left: 50px;
+    top: 450px;
     border-radius: 83px;
     font-weight: 600;
     font-size: 28px;
-    line-height: 42px;
     color: rgb(255, 255, 255);
     background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);
 }          
                 
                 
-
-                
-        
-
-
-// header {
-//     display: flex;
-//     height: 137px;
-//     top: 0;
-//     left: 0;
-// }
-// a{
-//     display: flex;
-// }
-// .logo {
-//     width: 47.58px;
-//     height: 47.58px;
-//     top: 40px;
-//     left: 37px;
-// }
-// h2 {
-//     font-weight: 500;
-//     line-height: 45px;
-// }
-// li {
-//     list-style: none;
-
-// }
-// a {
-//     text-decoration: none;
-//     color: rgb(255, 255, 255);
-// }
-// .container {
-//     width: 1200px;
-//     height: 100vh;
-//     margin: 0 auto;
-// }
-// .social-icons {
-//     float: right;
-// }
-// ul {
-//     display: flex;
-// }
-// button {
-//     background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);
-//     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-//     border-radius: 83px;
-//     width: 280px;
-//     height: 80px;
-//     }
-
-
-    // .hero-img {
-    //     position: absolute;
-    //     width: 758px;
-    //     height: 758px;
-    //     left: 877px;
-    //     top: 135px;
-    //     opacity: 0.5;
-    // }
-
-
-
-
-
-
 
 //  SCSS PRIVALUMAI
 

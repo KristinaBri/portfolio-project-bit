@@ -5,3 +5,5 @@
 
 ##### You can check the project on github-pages [here](https://kristinabri.github.io/portfolio-project-bit/).
 
+![This is an image](https://github.com/KristinaBri/portfolio-project-bit/blob/master/assets/porfolioPreview.png)
+

@@ -103,6 +103,10 @@ ul {
   padding-left: 40px;
 }
 
+.social img:hover {
+  opacity: 0.5;
+}
+
 main {
   width: 202px;
   height: 47.58px;
@@ -145,18 +149,39 @@ button:hover {
   background: linear-gradient(270deg, #945DD6 0%, #6978D1 66.67%, #13ADC7 100%);
 }
 
-@media screen and (max-width: 576px) {
+.fa-solid {
+  display: none;
+}
+
+@media screen and (max-width: 700px) {
+  body {
+    background-position: 50% 20%;
+  }
   .menu {
     display: none;
+  }
+  main {
+    width: 80%;
+  }
+  .hero-content {
+    width: 100%;
   }
   .social img {
     display: none;
   }
-  .container {
-    max-width: 400px;
+  h1 {
+    font-size: 50px;
+    width: 100%;
   }
-  .hero-content {
-    width: 80%;
-    margin-left: 0;
+  p {
+    font-size: 30px;
+    width: 100%;
+  }
+  .fa-solid {
+    display: block;
+    color: rgb(255, 255, 255);
+    padding-left: 25%;
+    font-size: 30px;
+    cursor: pointer;
   }
 }/*# sourceMappingURL=style.css.map */
